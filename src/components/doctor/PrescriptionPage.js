@@ -108,7 +108,7 @@ const PrescriptionPage = () => {
           <Typography>
             <b>Other Notes:</b> {selected.others}
           </Typography>
-          {/* <Typography><b>Transaction ID:</b> {selected.transactionId}</Typography> */}
+          <Typography><b>Transaction ID:</b> {selected.transactionId}</Typography>
 
           <Divider sx={{ my: 2 }} />
 
